@@ -43,7 +43,7 @@ Collaborate and propose solutions to enhance organizational efficiency and proce
 - Emphasizing the practical application of concepts through Python programming with NumPy. It focused on matrix manipulation and operations, including those related to eigen values.
 - Thecourse integrated linear algebra theory, addressing its direct application in machine learning, highlighting key connections, and solving real-world problems.
 
-**Applied Data Science Program & Machine Learning | Massachusetts Institute of Technology(_July 2024_)**
+**Applied Data Science Program & Machine Learning | Massachusetts Institute of Technology (_July 2024_)**
 - Comprehensive Coverage of Advanced Data Science Techniques: Explored advanced methodologies in data science, including machine learning, big data analytics, and predictive modeling. Covered key concepts in data processing, feature engineering, and model evaluation.
 - Emphasis on Real-World Applications and Hands-On Learning: Utilized practical tools and frameworks such as TensorFlow, PyTorch, and Hadoop. Gained proficiency in applying statistical methods and machine learning algorithms to real-world datasets through extensive coding exercises and projects.
 
