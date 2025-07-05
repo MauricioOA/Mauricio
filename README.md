@@ -8,7 +8,7 @@ Collaborate and propose solutions to enhance organizational efficiency and proce
 ## Projects
 
 ### AGV Project
-** Leader and Programmer (_Febrary 2023 - Present_)**
+**Leader and Programmer (_Febrary 2023 - Present_)**
 -  I led a team responsible for the programming and operation of an AGV, using ROS and a LIDAR system for route planning. I am directing the implementation of advanced technologies, optimizing operational efficiency and system safety.
 
 ### Quantum Tec
