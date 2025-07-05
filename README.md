@@ -15,4 +15,12 @@ Collaborate and propose solutions to enhance organizational efficiency and proce
 **Organizer and Speaker (_August 2022 - December 2022_)**
 - I have organized and spoke at a summer camp hosted by the Department of Science and Engineering with the aim of in creasing young student's interest in the STEM field. I have delivered lectures on theoretical and experimental physics, highlighting their importance in our daily lives. I have received recognition for my valuable contribution to the event.
 
+### Human Exploration Rover Challenge
+**Team Leader (_August 2021 - December 2022_)**
+- Team leader during participation in the Human Exploration Rover Challenge, an internationally recognized competition hosted by NASA. The objective was to design and manufac ture a prototype lunar rover.
+
+## Achivements
+- Runner-up in collage crossfit tournament
+- Recognition for project at the university's technology demonstration
+
 
